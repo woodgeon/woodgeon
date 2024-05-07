@@ -25,4 +25,5 @@ Here are some ideas to get you started:
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=woodgeon&show_icons=true" />
-</picture> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ad4086)](https://solved.ac/ad4086/)
+</picture> 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ad4086)](https://solved.ac/ad4086/)
