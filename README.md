@@ -1,12 +1,8 @@
 ### Hi there 👋
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodgeon&count_bg=%23007EFF&title_bg=%23130EAF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
+<a href="https://hits.seeyoufarm.com">
     <img alt="hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoodgeon&count_bg=%23007EFF&title_bg=%23130EAF&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false" />
   </a>
-</p>
-
 <p align="center">
   <a href="https://github.com/woodgeon">
     <img src="https://github-readme-stats.vercel.app/api?username=woodgeon&show_icons=true&theme=dark" alt="woodgeon's GitHub Stats" />
