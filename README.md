@@ -1,3 +1,6 @@
 ### Hi there 👋
-![Geonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=woodgeon&show_icons=true&theme=transparent)
-![Programmers Badge](https://raw.githubusercontent.com/woodgeon/Programmers_Badge_Generator/main/result/result.svg)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=woodgeon&show_icons=true&theme=transparent" alt="Geonwoo's GitHub stats" width="500" height="300">
+  <img src="https://raw.githubusercontent.com/woodgeon/Programmers_Badge_Generator/main/result/result.svg" alt="Programmers Badge" width="500" height="300">
+</p>
+
